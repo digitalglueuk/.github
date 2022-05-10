@@ -1,6 +1,6 @@
 ## Hey, this is us 👋
 
-![This is Us] (https://digitalglue.agency/wp-content/uploads/resized/2022/02/c6b302f7-890c-4f9d-ab0c-324f4bbd7220-870x580-c-default.jpg)
+![This is Us](https://digitalglue.agency/wp-content/uploads/resized/2022/02/c6b302f7-890c-4f9d-ab0c-324f4bbd7220-870x580-c-default.jpg)
 
 
 ### 💡 Founded in 2013, Digital Glue set out to change the marketing landscape.
